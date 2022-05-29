@@ -11,5 +11,8 @@
     "url": "instagram"
   },
   "author": "Michael Post",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
